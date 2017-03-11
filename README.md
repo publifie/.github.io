@@ -1,5 +1,5 @@
-# .github.io
-Makes Interaction Easy
+# Publifie.github.io
+Making Interaction Easy!
 
 
 Publifie Website repo by saubhagya
